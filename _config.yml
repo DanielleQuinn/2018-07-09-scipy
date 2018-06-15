@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "SciPy2018 Carpentries Instructor Training"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: sheraaronhurt@carpentries.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
